@@ -55,7 +55,6 @@ header {
     padding-top: 20px;
     margin: auto;
     font-size: 20px;
-    
 }
 
 a:link {
@@ -85,6 +84,20 @@ section {
 }
 
 img {
+    float: left;
+    padding: 20px 20px 0 0;
+}
+
+portfolioImages1 {
+    float: left;
+    padding: 20px 20px 0 0;
+}
+portfolioImages2 {
+    float: left;
+    padding: 20px 20px 0 0;
+}
+
+portfolioImages3 {
     float: left;
     padding: 20px 20px 0 0;
 }
