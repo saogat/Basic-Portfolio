@@ -240,13 +240,10 @@ footer {
     height: 50px;
     margin: auto;
     text-align: center;
+    padding-top: 10px;
 }
 
 p.footerP,
 footerP {
     color: white;
-}
-
-footer>p {
-    display: inline;
 }
