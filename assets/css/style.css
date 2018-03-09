@@ -26,7 +26,7 @@ body {
     background: #ffffff;
     border-bottom: solid black;
     border-width: 1px;
-    border-bottom-color: gray;
+    border-bottom-color: #cccccc;
 }
 
 .container {
@@ -63,6 +63,10 @@ header {
     font-size: 20px;
 }
 
+a:hover{
+    color: #CCAB14;
+}
+
 a:link {
     text-decoration: none;
 }
@@ -79,8 +83,8 @@ p {
 
 section {
     position: relative;
-    background: white;
-    border: solid gray 1px;
+    background: #ffffff;
+    border: solid #dddddd 1px;
     padding: 20px;
     margin: 100px 100px 0 0;
 }
@@ -228,6 +232,10 @@ button {
     background: #4aaaa5;
     width: 80px;
     height: 40px;
+}
+
+button:hover {
+    background-color: #00FFF2;
 }
 
 footer {
